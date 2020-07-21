@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SSD_keras_restnet
 
 I change the SSD300 base net from VGG16 to ResNet.
@@ -13,3 +14,6 @@ in train_SSD.py
 
 TODO:
 create SSD512 net and change add more layers in resnet.
+=======
+# ssd_resnet
+>>>>>>> c68e19c840345a616c4179b3ed4ddf187b7b2499
